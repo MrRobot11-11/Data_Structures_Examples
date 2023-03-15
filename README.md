@@ -1,6 +1,6 @@
 
-Class Repository 
+#Data Structures Course
 
-ITDEV-154-500
+Examples of various data structures using C#
 
 Fall 2021
