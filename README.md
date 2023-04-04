@@ -1,5 +1,2 @@
-
-Data Structures Course
-
-Program examples of various data structures using C#
+A Simple C# program showcasing the use of a data table.
 
