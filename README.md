@@ -1,5 +1,3 @@
 
-Data Structures Course
-
-Program examples of various data structures using C#
+A C# program demonstrating the use of hashtables to store data
 
