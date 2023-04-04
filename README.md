@@ -1,5 +1,4 @@
 
-Data Structures Course
+A simple C# program demonstrating the use of stacks and queues.
 
-Program examples of various data structures using C#
-
+java script
