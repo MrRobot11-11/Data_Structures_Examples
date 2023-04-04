@@ -1,5 +1,3 @@
 
-Data Structures Course
-
-Program examples of various data structures using C#
+A simple program demonstarting the use of a binary search tree
 
